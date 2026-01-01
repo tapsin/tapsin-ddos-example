@@ -43,6 +43,7 @@ Special thanks:
 * [@Smaury](https://github.com/smaury) to support for coding.
 * [@moty66](https://github.com/moty66) to support for coding.
 * [@AxissXs](https://github.com/AxissXs) to support for coding.
+* [**@Tapsin**](https://github.com/tapsin) for project maintenance.
 
 ## License
 
